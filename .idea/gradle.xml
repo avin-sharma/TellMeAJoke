@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/JokesJavaLibrary" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/backend" />
+            <option value="$PROJECT_DIR$/displayJokeAndroidLibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

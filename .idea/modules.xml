@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TellMeAJoke.iml" filepath="$PROJECT_DIR$/.idea/modules/TellMeAJoke.iml" group="TellMeAJoke" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TellMeAJoke/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend/backend.iml" filepath="$PROJECT_DIR$/.idea/modules/backend/backend.iml" group="TellMeAJoke/backend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/displayJokeAndroidLibrary/displayJokeAndroidLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/displayJokeAndroidLibrary/displayJokeAndroidLibrary.iml" group="TellMeAJoke/displayJokeAndroidLibrary" />
     </modules>
   </component>
 </project>
