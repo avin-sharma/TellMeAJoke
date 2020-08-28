@@ -12,7 +12,6 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.avinsharma.displayjokeandroidlibrary.DisplayJokeActivity;
-import com.avinsharma.jokesjavalibrary.Joker;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
 import com.google.api.client.googleapis.services.AbstractGoogleClientRequest;
